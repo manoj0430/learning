@@ -1,2 +1,2 @@
 my first git project and i testing it.
-git is nice
+git is nice and good for use.
